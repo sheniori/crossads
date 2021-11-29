@@ -1,0 +1,7 @@
+[Settings]
+stop=0
+runcount=3
+repeat=2
+
+pkgid=com.police.mafia.crime.vice
+picture=crossads/cute_dolls.png
