@@ -4,4 +4,4 @@ runcount=3
 repeat=2
 
 pkgid=com.police.mafia.crime.vice
-picture=cute_dolls.png
+picture=icon.jpg
